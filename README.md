@@ -39,9 +39,9 @@ This project covers an end-to-end data analysis workflow, including **web scrapi
 |----------------------------------|-------------|
 | `QuoteScape_Insights_Web_Scrapping.ipynb`            | Web scraping script (Python). |
 | `quotes.csv`                     | Scraped data in CSV format. |
-| `quotes_analysis.sql`            | SQL queries for analysis. |
-| `Quotes_EDA_Visualization.ipynb` | Jupyter notebook for data analysis and visualization. |
-| `Insights_Images`                | Folder containing generated visualizations. |
+| `QuoteScape_Insights_SQL_Query.ipyna`            | SQL queries for analysis. |
+| `QuoteScape_Insights_EDA.ipynb` | Jupyter notebook for data analysis and visualization. |
+| `QuoteScape_Insights_Insights_Images`                | Folder containing generated visualizations. |
 
 ## **How to Run the Project**  
 
