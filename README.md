@@ -62,6 +62,22 @@ Run queries in `quotes_analysis.sql` to generate insights, such as:
 ### **4. Exploratory Data Analysis (EDA)**  
 Run `Quotes_EDA_Visualization.ipynb` in **Jupyter Notebook** to explore the data using visualizations.  
 
+### **5. Quote Length Analysis:**  
+- Calculated the **length of each quote** to understand variation in quote sizes.  
+- The **distribution of quote lengths** shows most quotes are within a moderate length range.  
+- **Boxplot analysis** reveals the presence of **outliers**, indicating some unusually long quotes.  
+
+### **6. Most Common Tags:**  
+- Counted the **number of quotes per tag** to identify **popular themes**.  
+- The top 10 most frequently used tags suggest a **dominance of inspirational and life-related themes**.  
+- **Bar chart visualization** highlights the most used tags in the dataset.  
+
+### **7. Quote Distribution by Author:**  
+- Analyzed the **top 10 authors** with the highest number of quotes.  
+- Some authors have significantly more quotes than others, indicating **high influence** in the dataset.  
+- **Bar chart visualization** helps in understanding which authors contribute the most quotes.  
+
+
 
 ## **Insights from Analysis**  
 
