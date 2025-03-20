@@ -46,7 +46,7 @@ This project covers an end-to-end data analysis workflow, including **web scrapi
 
 
 
-## **How to Run the Project**  
+# **How to Run the Project**  
 
 ### **1. Web Scraping**  
 Run `Quotes_Scraping.py` to extract data and save it as `quotes.csv`.  
@@ -69,7 +69,7 @@ Run `Quotes_EDA_Visualization.ipynb` in **Jupyter Notebook** to explore the data
 
 
 
-## **Insights from Analysis**  
+# **Insights from Analysis**  
 
 ### **1. Quote Frequency:**  
 - Identified the **most quoted authors**, with some having over **10 quotes**.  
