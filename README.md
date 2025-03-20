@@ -80,10 +80,7 @@ Run `Quotes_EDA_Visualization.ipynb` in **Jupyter Notebook** to explore the data
 ### **4. The Longest Quote:**  
 - Identified and analyzed the **longest quote** in the dataset.  
 - Found that longer quotes tend to have **deeper philosophical meanings**.  
-
-### **5. Price vs. Rating Analysis (if applicable):**  
-- Checked for correlations between **quote length and popularity**.  
-- Observed no **strong correlation**, meaning **longer quotes are not necessarily more liked**.  
+ 
 
 ## **Project Submission**  
 **GitHub Repository:** [[QuoteScape_Insights_Project](https://github.com/rajput5540/QuoteScrape_Insights_Project)]   
