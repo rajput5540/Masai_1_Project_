@@ -43,6 +43,9 @@ This project covers an end-to-end data analysis workflow, including **web scrapi
 | `QuoteScape_Insights_EDA.ipynb` | Jupyter notebook for data analysis and visualization. |
 | `QuoteScape_Insights_Insights_Images`                | Folder containing generated visualizations. |
 
+
+
+
 ## **How to Run the Project**  
 
 ### **1. Web Scraping**  
@@ -61,6 +64,8 @@ Run queries in `quotes_analysis.sql` to generate insights, such as:
 
 ### **4. Exploratory Data Analysis (EDA)**  
 Run `Quotes_EDA_Visualization.ipynb` in **Jupyter Notebook** to explore the data using visualizations.  
+
+
 
 
 
@@ -96,6 +101,8 @@ Run `Quotes_EDA_Visualization.ipynb` in **Jupyter Notebook** to explore the data
 - Analyzed the **top 10 authors** with the highest number of quotes.  
 - Some authors have significantly more quotes than others, indicating **high influence** in the dataset.  
 - **Bar chart visualization** helps in understanding which authors contribute the most quotes.
+
+
   
 
 ## **Project Submission**  
