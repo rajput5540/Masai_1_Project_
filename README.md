@@ -86,7 +86,7 @@ Run `Quotes_EDA_Visualization.ipynb` in **Jupyter Notebook** to explore the data
 - Observed no **strong correlation**, meaning **longer quotes are not necessarily more liked**.  
 
 ## **Project Submission**  
-**GitHub Repository:** [Add your GitHub link here]  
+**GitHub Repository:** [[Add your GitHub link here](https://github.com/rajput5540/QuoteScrape_Insights_Project)]   
 
 ## **Contributors**  
 - **Your Name**  
